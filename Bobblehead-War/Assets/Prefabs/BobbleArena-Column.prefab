@@ -20,6 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4589205919636790}
   - component: {fileID: 95272619568714896}
+  - component: {fileID: 65254096729965746}
   m_Layer: 0
   m_Name: BobbleArena-Column
   m_TagString: Untagged
@@ -123,9 +124,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1466651105838852}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.0522804, y: 1.330843, z: 21.674408}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 29.338146, y: 4.4850445, z: -35.75874}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 4287960771236982}
   - {fileID: 4569464499899416}
@@ -250,6 +251,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1549194988813188}
   m_Mesh: {fileID: 4300002, guid: 7efbd8df4f8f248a58d8a33c88abe034, type: 3}
+--- !u!65 &65254096729965746
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1466651105838852}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.07, y: 8.1, z: 2}
+  m_Center: {x: 0, y: 1.16, z: 0}
 --- !u!95 &95272619568714896
 Animator:
   serializedVersion: 3

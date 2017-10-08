@@ -91,7 +91,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 47
+  controlID: 134
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,7 +135,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 48
+  controlID: 12
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -323,9 +323,9 @@ MonoBehaviour:
     height: 806
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 1afcffff00000000
+    m_SelectedIDs: bafbffff
+    m_LastClickedID: -1094
+    m_ExpandedIDs: c4fbffff1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -419,18 +419,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: 64
-  m_LastProjectPath: E:\Unity\Bobblehead-War
+  m_LastProjectPath: E:\Unity\Bobblehead-War\Bobblehead-War
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2e280000
-    m_LastClickedID: 10286
+    m_SelectedIDs: a6260000
+    m_LastClickedID: 9894
     m_ExpandedIDs: 000000001826000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -486,8 +486,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 24280000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: 2428000036260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -560,7 +560,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
     m_UniformScale: 1
     m_UpDirection: 1
@@ -617,14 +617,14 @@ MonoBehaviour:
     width: 768
     height: 403
   m_SceneLighting: 1
-  lastFramingTime: 148584.02241465272
+  lastFramingTime: 146.2696861545658
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.1849978, y: 6.1035614, z: -1.2126048}
+    m_Target: {x: 66.35156, y: 10.800781, z: 13.265625}
     speed: 2
-    m_Value: {x: 0.1849978, y: 6.1035614, z: -1.2126048}
+    m_Value: {x: 66.35156, y: 10.800781, z: 13.265625}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -647,13 +647,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.0028685303, y: 0.9937402, z: -0.1086461, w: -0.026229156}
+    m_Target: {x: 0.068792515, y: 0.85043573, z: -0.11498909, w: 0.5087505}
     speed: 2
-    m_Value: {x: -0.0028685303, y: 0.99374026, z: -0.10864611, w: -0.026229156}
+    m_Value: {x: 0.068791725, y: 0.850426, z: -0.11498777, w: 0.50874466}
   m_Size:
-    m_Target: 61.907085
+    m_Target: 78.03876
     speed: 2
-    m_Value: 61.907085
+    m_Value: 78.03876
   m_Ortho:
     m_Target: 1
     speed: 2
