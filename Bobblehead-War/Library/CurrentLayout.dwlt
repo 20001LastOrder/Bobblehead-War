@@ -91,7 +91,11 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 95
+=======
+  controlID: 137
+>>>>>>> Stashed changes
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 12
+  controlID: 24
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -350,9 +354,15 @@ MonoBehaviour:
     height: 790
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: eadbffff
     m_LastClickedID: -9238
     m_ExpandedIDs: 86deffff00000000a22c0000
+=======
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 1afcffff00000000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -446,19 +456,33 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< Updated upstream
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets
+=======
+    - Assets/Scripts
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Scripts
+>>>>>>> Stashed changes
   m_LastFoldersGridSize: 64
   m_LastProjectPath: D:\UnityProject\Bobblehead-War\Bobblehead-War
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: a62b0000
     m_LastClickedID: 11174
     m_ExpandedIDs: 00000000a62b000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 2e280000
+    m_LastClickedID: 10286
+    m_ExpandedIDs: 000000001826000000ca9a3bffffff7f
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -649,9 +673,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 66.35156, y: 10.800781, z: 13.265625}
+    m_Target: {x: 20.06836, y: -15.21875, z: -19.751953}
     speed: 2
-    m_Value: {x: 66.35156, y: 10.800781, z: 13.265625}
+    m_Value: {x: 20.06836, y: -15.21875, z: -19.751953}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -674,13 +698,17 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.068792515, y: 0.85043573, z: -0.11498909, w: 0.5087505}
+    m_Target: {x: 0.1047645, y: 0.894759, z: -0.29096198, w: 0.3221708}
     speed: 2
+<<<<<<< Updated upstream
     m_Value: {x: 0.06879251, y: 0.85043573, z: -0.11498909, w: 0.5087505}
+=======
+    m_Value: {x: 0.10476334, y: 0.8947491, z: -0.29095876, w: 0.32216722}
+>>>>>>> Stashed changes
   m_Size:
-    m_Target: 78.03876
+    m_Target: 19.584349
     speed: 2
-    m_Value: 78.03876
+    m_Value: 19.584349
   m_Ortho:
     m_Target: 1
     speed: 2
